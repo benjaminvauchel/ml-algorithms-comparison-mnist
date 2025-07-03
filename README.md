@@ -1,6 +1,6 @@
 # MNIST Handwritten Digit Classification Study
 
-This mini-project focuses on classifying handwritten digits (0-9) from the MNIST dataset. The MNIST dataset comprises 70,000 black and white images, each 28x28 pixels. The primary goal is to accurately classify these images into their respective 10 classes. The objective of the project is to test and compare different methods for image classification, including traditional algorithms and neural networks, in order to evaluate their performance on this benchmark dataset.
+This mini-project focuses on classifying handwritten digits (0-9) from the MNIST dataset. The MNIST dataset contains 70,000 black and white images, each 28x28 pixels. The primary goal is to accurately classify these images into their respective 10 classes. The objective of the project is to test and compare different methods for image classification, including traditional algorithms and neural networks, in order to evaluate their performance on this benchmark dataset.
 
 The Jupyter Notebook was created as part of the Machine Learning course at École des Mines de Saint-Étienne and was co-authored by Alexis BECHET.
 
