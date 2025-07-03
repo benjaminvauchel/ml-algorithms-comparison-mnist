@@ -36,7 +36,7 @@ The `main.ipynb` notebook contains the full implementation of the project along 
 The project involves the use of various machine learning models from the `sklearn` library for classification, including but not limited to:
 
 - **Unsupervised methods**: K-Means and EM with Gaussian mixture
-- **Supervised methods**: Decision Tree, Support Vector Machine, (multiclass) Logistic Regression, Naïve Bayes Classifier, MLP, CNN
+- **Supervised methods**: Decision Tree, SVM (Support Vector Machine), (multiclass) Logistic Regression, Naïve Bayes Classifier, MLP (Multi-Layer Perceptron), CNN (Convolutional Neural Network)
 
 Additionally, **PCA** (Principal Component Analysis) is used for dimensionality reduction.
 
